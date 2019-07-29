@@ -2,8 +2,8 @@ apiVersion: ignite.weave.works/v1alpha1
 kind: VM
 metadata:
   name: test-vm
-spec:
   uid: 1
+spec:
   image:
     ociClaim:
       ref: weaveworks/ignite-ubuntu
