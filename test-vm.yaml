@@ -10,4 +10,4 @@ spec:
   diskSize: 3GB
   memory: 1024MB
 status:
-  state: RUNNING
+  state: Running
