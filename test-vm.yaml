@@ -11,3 +11,5 @@ spec:
   diskSize: 3GB
   memory: 1024MB
   ssh: true
+status:
+  state: Running
