@@ -3,6 +3,7 @@ kind: VM
 metadata:
   name: test-vm
 spec:
+  uid: 1
   image:
     ociClaim:
       ref: weaveworks/ignite-ubuntu
