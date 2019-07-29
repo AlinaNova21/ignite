@@ -2,7 +2,7 @@ apiVersion: ignite.weave.works/v1alpha1
 kind: VM
 metadata:
   name: test-vm
-  uid: 1
+  uid: abc123
 spec:
   image:
     ociClaim:
